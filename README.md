@@ -1,9 +1,9 @@
 #### HOW TO RUN LOCALLY ####
-.  Install VS Code in your laptop\
-.  clone/(download as .zip) the file into your laptop\
-.  extract the folder and open the folder in your VS Code\
-.  install node and npm by following the instructions-(https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)\
-.  install react-scripts - `npm i react-scripts`\
+.  Install VS Code in your laptop <br/>
+.  clone/(download as .zip) the file into your laptop<br/>
+.  extract the folder and open the folder in your VS Code<br/>
+.  install node and npm by following the instructions-(https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)<br/>
+.  install react-scripts - `npm i react-scripts`<br/>
 .  type `npm start`
 
 
